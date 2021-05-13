@@ -1,1 +1,3 @@
 Used Modules : random, smtplib, captcha.image, ImageCaptch, mysql.connector, string, tkinter.messagebox as tkMessageBox, tkinter import *, re, tkinter import ttk,messagebox, base64 , PIL import ImageTk,Image , cv2 ,tkinter as tk , tkinter import ttk 
+Used database : MySql80
+Used GUI : Python module Tkinter
