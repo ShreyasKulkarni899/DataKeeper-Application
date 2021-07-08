@@ -71,8 +71,9 @@ INSTALLATION
 CONFIGURATION
 -------------
 * 1] Open the DataKeeper.py File
-* 2] Find the Database() function and add your credentials for the MySQl databse connection.
-* 3] Save and close the file
+* 2] Check the latest update of the MySQLconnector in python & Check the Username and Password in program or set the username as "root" and password as "root"
+* 3] Find the Database() function and add your credentials for the MySQl databse connection.
+* 4] Save and close the file
 
 MAINTAINER"S
 -------------
