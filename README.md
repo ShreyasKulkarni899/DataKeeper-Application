@@ -15,7 +15,7 @@ CONTENTS OF THIS FILE
  INTRODUCTION
 --------------
 
-The DataKeeper Application is a Graphical User Interface(CUI) based application.
+The DataKeeper Application is a Graphical User Interface(GUI) based application.
 DataKeeper is an open-source relational database management system.Which is bulit using with
 help of Python's Tkinter for the Front-End designing, Python as back-end language.MySQL relational
 database system for data manipulation.It a robust application which provides the registration and login
